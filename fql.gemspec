@@ -5,7 +5,7 @@ require "fql/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "using_fql"
+  s.name        = "fql"
   s.version     = Fql::VERSION
   s.authors     = ["Maarten Claes"]
   s.email       = ["maartencls@gmail.com"]
